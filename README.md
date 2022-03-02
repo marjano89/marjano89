@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marjano89
-- 👀 I’m interested in gamedev, embedded, web development
+- 👀 I’m interested in Godot2d, gamedev, embedded, web development
 - 🌱 I’m currently learning SPA development in Django-React stack and gamedev in Godot engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
